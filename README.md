@@ -1,4 +1,3 @@
-````markdown
 # Adverse Drug Reaction Extraction with Transformers and CRFs
 
 This project explores and compares modern Natural Language Processing (NLP) methods for detecting **Adverse Drug Reactions (ADRs)** in patient reviews.  
