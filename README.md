@@ -92,5 +92,3 @@ It includes data preprocessing details, architectural explanations, and model co
 * `Demo_final.ipynb` – Model demonstration
 * `report.pdf` – Full report and experimental results
 
-```
-```
